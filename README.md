@@ -1,5 +1,6 @@
 # AkumML001
 ![1000558225](https://github.com/user-attachments/assets/7e988d97-41c8-4b43-a960-0811284a8f97)
+Harga = 500.000 IDR/130 RM/31 USD<br>
 Spesifikasi <br>
 Login : Android/Ios/Windows <br>
 Jumlah Skin :272 <br>
