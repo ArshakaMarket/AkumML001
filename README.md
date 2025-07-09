@@ -15,4 +15,7 @@ Transformer : Roger dan Aldous <br>
 Kof : Karina <br>
 Kungfu Panda : Ling dan Thamuz <br>
 Sanrio : Floryn <br>
+_____________
+#Full Screenshot <br>
+https://drive.google.com/drive/folders/1_bmkB_BJPoI9XsbMNLa2cWTmgu09yqqe?usp=sharing
 
